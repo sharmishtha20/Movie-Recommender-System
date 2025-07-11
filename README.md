@@ -4,6 +4,19 @@ This is a content-based **Movie Recommendation System** built using **Python**, 
 
 ---
 
+## 📂 Dataset
+
+This project uses the **MovieLens 20M Dataset** by GroupLens, which contains 20 million ratings and tag applications applied to 27,000 movies by 138,000 users.
+
+📦 [Click here to view/download the dataset on Kaggle](https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset)
+
+**Files used:**
+- `movies.csv`
+- `genome_scores.csv`
+- `genome_tags.csv`
+
+---
+
 ## 🚀 Project Highlights
 
 - 🔍 **Search by title**: Suggests movies similar to your input using part of the name.
